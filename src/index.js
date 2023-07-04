@@ -16,7 +16,7 @@ import { StrictMode } from 'react'
 // the HTML element from our index.html file is passed iniot createRoot, and then we execute the render method passing in our main App component
 createRoot(root).render(
   <StrictMode>
-    <App />
+    <App/>
   </StrictMode>)
 
 
